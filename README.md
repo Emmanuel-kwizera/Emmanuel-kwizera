@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about me -->
-#I’m a software Engineer
+Software Engineer
 
 - Front end
 - Back end
