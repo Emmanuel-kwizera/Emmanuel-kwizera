@@ -1,25 +1,19 @@
 <!-- Your title -->
-## Hello, I'm Oreste Abizera!
+## Hello, I'm Emmanuel-kwizera!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000?style=flat&logo=dev&logoColor=white)](https://dev.to/oreste)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AbizeraOreste)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/oreste-abizera)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oreste-abizera-151bb9194/)
-
 &nbsp;
 
 <!-- Talking about me -->
 **About Me:**
 
-- I’m currently student at __[Rwanda Coding Academy](http://rca.ac.rw)__.
-- I’m currently learning __Javascript__, __Java__, & Python.
-- I’m looking to collaborate on anything!
+- I’m a software Engineer
+- Front end
+- Back end
 - Ask me about anything, I am happy to help.
-- How to reach me: __oresteabizera11@gmail.com__
+- How to reach me: __kwizemmy2004@gmail.com__
 
 ---
 
@@ -43,6 +37,6 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-<a href="https://github.com/oreste-abizera/github-readme-stats">
-   <img width="60%" alt="Oreste's github stats" src="https://github-readme-stats.vercel.app/api?username=oreste-abizera&show_icons=true&hide_border=true" />
+<a href="https://github.com/Emmanuel-kwizera/github-readme-stats">
+   <img width="60%" alt="Emmanuel's github stats" src="https://github-readme-stats.vercel.app/api?username=emmanuel-kwizera&show_icons=true&hide_border=true" />
 </a>
