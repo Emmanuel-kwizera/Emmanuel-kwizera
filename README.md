@@ -13,5 +13,5 @@ Software Engineer
 - How to reach me: __kwizemmy2004@gmail.com__
 
 <a href="https://github.com/Emmanuel-kwizera/github-readme-stats">
-   <img width="60%" alt="Emmanuel's github stats" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-kwizera&show_icons=true&hide_border=true" />
+   <img width="60%" alt="Emmanuel's github stats" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-kwizera&show_icons=true&count_private=true" />
 </a>
